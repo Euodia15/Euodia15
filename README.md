@@ -1,48 +1,36 @@
-👋 Hi, I’m Euodia, I have a Bachelors degree in Computer Science from Veritas University Abuja
-This repository is mainly for projects I have done under Udacity-Data-Analysis-Nanodegree.
+# Data-Analyst-Portfolio
 
-Udacity online data analyst program prepares me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
+# Hi, I'm Euodia 👋
 
-Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
+Welcome to my GitHub profile! I’m a Data Analyst passionate about transforming raw data into actionable insights. With a strong background in Python, SQL, Power BI, and Excel, I love exploring datasets to uncover trends, patterns, and outliers.
 
-Part 1 - Intro to Data Analysis
-Subjects Covered:
+## About Me
 
-Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
-Jupyter Notebook: Learn to use this open-source web application
-Data Analysis Process
-NumPy for 1 and 2D Data
-Pandas Series and Dataframes
-Project 1: Investigate a dataset called TMDb movie data.
-I was provided a dataset reflecting data collected from an experiment. I used statistical techniques to answer questions about the data and report my conclusions and recommendations in a report. In this project, I choose one of Udacity's curated datasets and investigate it using NumPy and pandas.I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings.
+- 🧑‍💻 I specialize in **data visualization** and **business intelligence**.
+- 🔍 I have experience in **predictive modeling**, **trend analysis**, and **reporting**.
+- 📊 I enjoy creating **interactive dashboards** and **dynamic reports** that help businesses make data-driven decisions.
 
-Project 1: TMDB dataset
+## My Skills
 
-Part 1 - Data Extraction and Wrangling
-Subjects Covered:
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Data Visualization**: Power BI, Google Sheets, Excel
+- **Tools**: Jupyter Notebooks, GitHub, VS Code, 
+- **Machine Learning**: Scikit-learn, TensorFlow (beginner)
 
-GATHERING DATA:
-Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
-Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
-Store gathered data in a PostgreSQL database
-ASSESSING DATA
-Assess data visually and programmatically using pandas
-Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
-Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
-CLEANING DATA
-Identify each step of the data cleaning process (defining, coding,and testing)
-Clean data using Python and pandas
-Test cleaning code visually and programmatically using Python
+## Projects
 
-Project 2 : Data Wrangle and Analyze with Tweet WeRateDogs data
-Collect data from different sources (such as the WeRateDogs archive, Twitter, etc) and assess data visually and programmatically , clean data for visulizing data and finding insights later.
+Here are a few projects I’ve worked on that showcase my skills in data analysis and visualization:
 
-Part 2 - Data Visualizations
-Subjects Covered:
+- **Coronavirus Analysis**: A detailed analysis of a coronavirus dataset.
+- **Sales**: Data cleaning and visualization of a sales dataset.
+- **Student Performance Prediction**: Building predictive models to forecast student performance.
 
-Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales )
-Bivariate exploration of data ( scatter plots , clustered bar charts , violin and bar charts , faceting )
-Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
-Explanatory Visulizations ( story telling with data , polish plots , create slide deck )
+Feel free to check them out!
 
-Project 3 : Spotify dataset EDA
+## Let’s Connect!
+
+- 📧 Email: ajonyeeuodia@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/euodia-ajonye-a821bb1b3
+- 🌐 Website/Portfolio: https://euodiaajonye.my.canva.site/euodia-ajonye
+
+Thanks for visiting my profile, and feel free to reach out!
